@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FitManager.Api/FitManager.Api.csproj" />
+    <Project Path="src/FitManager.Application/FitManager.Application.csproj" />
+    <Project Path="src/FitManager.Infrastructure/FitManager.Infrastructure.csproj" />
+  </Folder>
+</Solution>
